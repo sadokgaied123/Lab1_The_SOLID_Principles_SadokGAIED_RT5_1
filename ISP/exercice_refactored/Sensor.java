@@ -13,6 +13,6 @@ public class Sensor {
     }
 
     private boolean isPersonClose() {
-        return new Random().nextBoolean(); // Simulate proximity detection
+        return new Random().nextBoolean(); 
     }
 }
